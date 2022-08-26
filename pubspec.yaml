@@ -1,5 +1,5 @@
 name: web_view_tts
-description: Add Text-To-Speech Support in Flutter WebView  for Android
+description: A flutter plugin to add Text-To-Speech Support in Flutter WebView Android
 version: 0.0.1
 homepage: https://github.com/rohitsangwan01/web_view_tts
 repository: https://github.com/rohitsangwan01/web_view_tts
