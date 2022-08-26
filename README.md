@@ -30,7 +30,7 @@ onLoadStart(controller) async {
 }
 ```
 
-Checkout /example app for more details
+Checkout [/example](https://github.com/rohitsangwan01/web_view_tts/blob/main/example/lib/main.dart) app for more details
 
 ## Features
 
